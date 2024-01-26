@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork6Android2</string>
+    <string name="add">Добавить</string>
+    <string name="permision_read">Разрешение на чтение данных</string>
+    <string name="go_to_settings">Перейти в Настройки?</string>
+    <string name="go">да перейти</string>
+    <string name="no_i_wantto_stay">Нет я хочу остаться</string>
+</resources>
