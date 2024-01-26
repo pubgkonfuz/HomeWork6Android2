@@ -37,7 +37,6 @@ class MainActivity : AppCompatActivity() {
                 shouldShowRequestPermissionRationale(
                     "Разрешение есть"
                 )
-                Log.d("Permission", "Разрешение нет")
             } else {
                 createDialog()
             }
